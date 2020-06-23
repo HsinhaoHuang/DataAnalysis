@@ -12,9 +12,9 @@ description: 本講義為政治學方法論課程專用，預計四週，主題�
 
 四、多變量分析
 
- Clone or download
+我們主要講解的統計軟體為SPSS（請先於學校網站下載安裝），若有時間，老師會同步講解R的對應操作。
 
-##  Clone with HTTPS 
+## 
 
- Use Git or checkout with SVN using the web URL.
+ 
 
